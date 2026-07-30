@@ -1,4 +1,4 @@
-# 💖 Romantic Birthday Animation & Interactive Celebration Web App
+# 💖 Birthday Animation & Interactive Celebration Web App
 
 > A premium, interactive, and romantic web application designed to deliver an unforgettable digital birthday celebration experience with rich visuals, elegant glassmorphism, 3D flippable photo cards, and web audio soundscapes.
 
