@@ -2,6 +2,8 @@
 
 > A premium, interactive, and romantic web application designed to deliver an unforgettable digital birthday celebration experience with rich visuals, elegant glassmorphism, 3D flippable photo cards, and web audio soundscapes.
 
+🌐 **Live Demo & Deployment**: [https://birthday-v2-0.netlify.app/](https://birthday-v2-0.netlify.app/)
+
 ---
 
 ## ✨ Key Features & Highlights
